@@ -1,8 +1,12 @@
 /**
  * 2.29 evening
  * https://www.tutorialspoint.com/jackson_annotations/jackson_annotations_jsontypeinfo.htm
+ * 
+ * 3.1 evening
+ * https://www.tutorialspoint.com/jackson_annotations/jackson_annotations_jsonsubtypes.htm
+ * https://www.tutorialspoint.com/jackson_annotations/jackson_annotations_jsontypename.htm
  */
-package com.example.JacksonDemo.JacksonAnnotations.TypeHandling.AtJsonTypeInfo;
+package com.example.JacksonDemo.JacksonAnnotations.TypeHandling.AtJsonTypeInfoAtJsonSubTypesAtJsonTypeName;
 
 import com.fasterxml.jackson.annotation.JsonTypeName;
 
